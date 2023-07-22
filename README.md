@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Bhadrasen
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Working on Django
-- 💞️ I’m looking for a Job as a Python/Web Developer
+- 👀 I’m interested in Blockchain Development
+- 🌱 I’m currently Working on React Js and Solidity
+- 💞️ I’m looking for a Job as a Blockchain Developer
 - 📫 How to reach me https://www.linkedin.com/in/mayank-bhadrasen-2a2419172/
 
 <!---
